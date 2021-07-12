@@ -1,5 +1,10 @@
 # vue-chuck-norris-api
 
+PHP curl requests to https://api.chucknorris.io/ is done in files pointing to a testing server.
+
+https://testing.delovski.net/data/api-random.php
+https://testing.delovski.net/data/api-categories.php
+
 ## Project setup
 ```
 npm install
